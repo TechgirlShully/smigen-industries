@@ -37,7 +37,7 @@ export default function About() {
 
           <div>
             <h3 className="mb-6 text-3xl font-bold text-[#1E3A8A]">
-              Painting Excellence You Can Trust
+              Painting Excellence You Can Always Trust 
             </h3>
 
             <p className="mb-8 text-lg leading-8 text-gray-600">
