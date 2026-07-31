@@ -78,6 +78,8 @@ export default function Hero() {
           <div className="mt-12 grid gap-4 sm:grid-cols-2">
             {[
               "Interior & Exterior Painting",
+              "POP Designs",
+              "Wall Skimming",
               "Residential & Commercial Projects",
               "Premium Paint Products",
               "Free Site Inspection & Quote",
