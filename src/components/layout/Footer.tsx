@@ -18,7 +18,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="mb-4 font-semibold">
+            <h3 className="mb-3 font-semibold">
               Quick Links
             </h3>
 
@@ -44,7 +44,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="mb-4 font-semibold">
+            <h3 className="mb-3 font-semibold">
               Contact
             </h3>
 
