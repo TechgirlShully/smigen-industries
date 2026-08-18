@@ -31,7 +31,7 @@ export default function Contact() {
               <Mail className="text-[#F97316]" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p>smigenindustries@gmail.com</p>
+                <p>smigenindustriesltd@gmail.com</p>
               </div>
             </div>
 

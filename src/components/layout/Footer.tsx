@@ -50,7 +50,7 @@ export default function Footer() {
 
             <p>Phone: +234 903 648 6524</p>
 
-            <p>Email: smigenindustries@gmail.com</p>
+            <p>Email: smigenindustriesltd@gmail.com</p>
 
             <p>Lagos, Nigeria</p>
           </div>
@@ -60,6 +60,13 @@ export default function Footer() {
           © {new Date().getFullYear()} Smigen Industries.
           All rights reserved.
         </div>
+
+        <Link
+  href="/admin/login"
+  className="text-sm text-gray-300 transition hover:text-orange-500 text-center"
+>
+  Admin Login
+</Link>
       </Container>
     </footer>
   );
