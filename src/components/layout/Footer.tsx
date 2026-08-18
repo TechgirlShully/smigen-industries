@@ -61,12 +61,14 @@ export default function Footer() {
           All rights reserved.
         </div>
 
-        <Link
-  href="/admin/login"
-  className="text-sm text-gray-300 transition hover:text-orange-500 text-center"
->
-  Admin Login
-</Link>
+        <div className="mt-6 border-t border-gray-200 pt-5 text-center">
+  <Link
+    href="/admin/login"
+    className="inline-flex items-center rounded-md px-4 py-2 text-sm font-medium text-gray-500 transition hover:bg-gray-100 hover:text-[#1E3A8A]"
+  >
+    Admin Login
+  </Link>
+</div>
       </Container>
     </footer>
   );
